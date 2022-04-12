@@ -28,6 +28,6 @@ const badri = {
 ```
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=hasyimprolinkk&theme=dark&show_icons=true" alt="shwetangStats" align="middle" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasyimprolinkk&layout=compact&theme=dark" alt="top-langs" align="middle"/>
+  <img src="https://komarev.com/ghpvc/?username=hasyimprolinkk&color=872657&style=flat" alt="hasyimprolinkk" />
 </div>
 
