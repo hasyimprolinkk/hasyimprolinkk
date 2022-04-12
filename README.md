@@ -3,6 +3,8 @@
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+developer" /></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=hasyimprolinkk&color=872657&style=flat" alt="hasyimprolinkk" />
 </p>
 <p>I am a Web developer. I also like to create projects in CI and Laravel</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width:35%;">
@@ -27,7 +29,6 @@ const badri = {
 }
 ```
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=hasyimprolinkk&theme=dark&show_icons=true" alt="shwetangStats" align="middle" />  
-  <img src="https://komarev.com/ghpvc/?username=hasyimprolinkk&color=872657&style=flat" alt="hasyimprolinkk" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasyimprolinkk&theme=dark&show_icons=true" alt="shwetangStats" align="center" />  
 </div>
 
