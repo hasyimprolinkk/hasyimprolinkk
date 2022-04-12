@@ -5,7 +5,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+developer" /></a>
 </p>
 <p>I am a Web developer. I also like to create projects in CI and Laravel</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width:80%;">
 <ul>
   <li>👋 Hi, I’m @hasyimprolinkk</li>
   <li>❤️ I love Creating websites and Programming in PHP.</li>
