@@ -28,7 +28,7 @@ const badri = {
   }
 }
 ```
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=hasyimprolinkk&theme=dark&show_icons=true" alt="shwetangStats" align="center" />  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasyimprolinkk&theme=dark&show_icons=true" alt="shwetangStats" />  
 </div>
 
