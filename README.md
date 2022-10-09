@@ -18,7 +18,7 @@
 
 #### A little more about me
 ```javascript
-const badri = {
+const hash = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Python", "HTML", "CSS", "PHP"],
   askMeAbout: ["web dev", "Laravel", "Codeigniter"],
